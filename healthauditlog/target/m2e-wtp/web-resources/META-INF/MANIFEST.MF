@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: healthaudit
+Implementation-Version: 0.0.2-SNAPSHOT
+Built-By: user
+Implementation-Vendor-Id: com.ha
+Build-Jdk: 1.8.0_151
+Implementation-URL: http://projects.spring.io/spring-boot/spring-boot-
+ starter-parent/healthauditlog/
+Created-By: Maven Integration for Eclipse
+
